@@ -8,7 +8,7 @@ function App() {
   return (
     <BrowserRouter>
     <Routes>
-      <Route Component={TeachingTool} path='/'>
+      <Route exact Component={TeachingTool} path='/'>
       </Route>
     </Routes>
     </BrowserRouter>
