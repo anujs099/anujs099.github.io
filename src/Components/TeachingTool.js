@@ -155,7 +155,7 @@ export default function TeachingTool() {
             className="p-3 text-white"
             onClick={AddStandard}
           >
-            <PlusCircleOutlined className="p-3" />
+            <PlusCircleOutlined className="p-2" />
             Add a standard
           </Button>
         </Row>
